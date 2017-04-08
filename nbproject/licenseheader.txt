@@ -1,0 +1,21 @@
+<#if licenseFirst??>
+
+${licenseFirst}
+
+</#if>
+
+${licensePrefix}Student Info: Name=Han Wu, ID=16327
+
+${licensePrefix}Subject: CS532B_HW3_FALL_2016
+
+${licensePrefix}Author: Han Wu
+
+${licensePrefix}Date and Time: 2016.11.9 14:20:34
+
+${licensePrefix}Project Name: RPS
+
+<#if licenseLast??>
+
+${licenseLast}
+
+</#if>
